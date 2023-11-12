@@ -1,0 +1,179 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #e9dddd;
+    background-image: url(images/lp\,.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    }
+  
+
+    nav {
+    background-color: rgb(228, 166, 31)111;
+    color: #fff;
+    padding: 10px;
+  }
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+
+  section {
+    padding: 200px;
+  }
+
+  footer {
+    background-color: #db9d17;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  ul.navbar {
+    list-style-type:none ;
+    margin: 0;
+    padding: 0px;;
+    background-color:#faecec5d; 
+    overflow: hidden;
+}
+
+
+ul.navbar li {
+    float: right;
+  
+}
+ul.navbar li.codec{
+    float: left;
+    color: #fff;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-transform: uppercase;
+}
+
+ul.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration:none;
+}
+ul.navbar li a:hover {
+    background-color: #555;
+}
+header{
+    background-image: url(./images/wpg.jpeg.jpg);
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+     color: #e9dddd;
+}
+button {
+    background-color: rgb(113, 108, 108);
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    width: 60px;
+    height: 20px;
+    float:right;
+}
+
+input {
+    width: 200px;
+    border-radius: 5px;
+    height: 20px;
+    float: right;
+}
+#navbar {
+    height: 40px;
+    background-color: rgb(219, 211, 211);
+    color: rgb(114, 91, 91);
+    font-size: larger;
+    
+}
+#nav1 {
+    color: white;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    background-color:  rgba(15, 214, 148, 0.452);
+    float: left;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 5px;
+
+}
+#navbar :hover {
+    color: orange;
+}
+
+.active {
+    background-color: transparent;
+}
+.one {
+    color: white;
+    background-color: green;
+    width: 100px;
+    height:30px ;
+    border-radius: 5px;
+    padding: 40x;
+    cursor: pointer;
+    
+    
+
+}
+.one:hover{
+    background-color: orange;
+}
+.form{
+    width: 250px;
+    height: 250px;
+    float: right;
+    background-color:  rgba(42, 165, 108, 0.705);
+    color: white;
+    margin-right: 60px;
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 8px;
+}
+.Beauty{
+    color: white;
+    background-color: green;
+    width: 240px;
+    height:40px ;
+    border-radius: 5px;
+    padding: 100x;
+    cursor: pointer;
+    font-size: 18px;
+  
+}
+.Beauty:hover{
+    background-color: rgb(0, 110, 255);
+}
+.form.link{
+    font-size: 17px;
+    padding-top: 20ox;
+    text-align: center;
+    
+}
+.link a{
+    color: rgb(0, 217, 255);
+    font-size: 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
